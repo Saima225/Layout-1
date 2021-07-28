@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+background-color: rgb(12, 92, 92);
+text-align: center;
+color: crimson;
+height: 100px;
+}
+.banner{
+background-color: rgb(170, 122, 58);
+text-align: center;
+height: 400px;
+color: darkblue;
+}
+.content{
+    overflow: hidden;
+}
+.left-content{
+    background-color: darkolivegreen;
+    text-align: center;
+    height: 250px;
+    width: 50%;
+    float: left;
+}
+.right-content{
+    background-color: darkviolet;
+    text-align: center;
+    height: 250px;
+    width: 50%;
+    float: right;
+}
+.second-content{
+    overflow: hidden;
+}
+.long-content{
+    background-color: cadetblue;
+    height: 200px;
+    text-align: center;
+    width: 75%;
+    float: left;
+}
+.short-content{
+    background-color: chartreuse;
+    text-align: center;
+    height: 200px;
+    width: 25%;
+    float: right;
+}
+.client-section{
+    overflow: hidden;
+}
+.client-one{
+background-color: crimson;
+float: left;
+width: 25%;
+height: 100px;
+text-align: center;
+}
+.client-two{
+    float: left;
+    background-color: darkblue;
+    width: 25%;
+    height: 100px;
+    text-align: center;
+}
+.client-three{
+    float: left;
+    background-color: darkgoldenrod;
+    width: 25%;
+    height: 100px;
+    text-align: center;
+}
+.client-four{
+    float: left;
+    background-color: darkorchid;
+    width: 25%;
+    height: 100px;
+    text-align: center;
+}
+.footer{
+    height: 100px;
+    text-align: center;
+    background-color: darkred;
+}
